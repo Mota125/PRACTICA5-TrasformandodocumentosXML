@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/prueb/OneDrive/Escritorio/PRCTS_SERWEB/XML/Practica5/Celulares.xsl"?>
+<Moviles>
+<Movil>
+<modelo>Samsung  S10 +</modelo>
+<precio>$ 10,500</precio>
+</Movil>
+<Movil>
+<modelo>Samsung S20 +</modelo>
+<precio>$15,500</precio>
+</Movil>
+<Movil>
+<modelo>Samsung S20 Ultra</modelo>
+<precio>$22,500</precio>
+</Movil>
+</Moviles>
